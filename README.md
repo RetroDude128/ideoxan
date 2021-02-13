@@ -2,4 +2,4 @@
 # Ideoxan
 A free to use, online tool to learn programming
 
-gonna delete this soon
+guess this is going to stay to preserve history
